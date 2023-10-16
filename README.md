@@ -5,10 +5,10 @@ I am a passionate .NET developer with experience in building robust and scalable
 
 ## Skills
 - **Programming Languages:** C#, .NET, JavaScript 
-- **Frontend:** Vue.js, HTML, CSS
+- **Frontend:** Vue.js,Angular, HTML, CSS
 - **Mobile Development:** Flutter
 - **Databases:** SQL Server, MySQL
-- **Tools:** Visual Studio, Visual Studio Code, Git
+- **Tools:** Visual Studio, Visual Studio Code, Git, SQL Management Studio
 
 ## Projects
 I am currently working on several exciting projects:
