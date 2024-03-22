@@ -18,29 +18,30 @@ I am currently working on several exciting projects:
 
 - Languages and Tools:
 
-<i class="fab fa-android"></i> <!-- Android -->
-<i class="fab fa-angular"></i> <!-- Angular -->
-<i class="fab fa-azure"></i> <!-- Azure -->
-<i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
-<i class="fab fa-c-plusplus"></i> <!-- C++ -->
-<i class="fab fa-csharp"></i> <!-- C# -->
-<i class="fab fa-css3"></i> <!-- CSS3 -->
-<i class="fab fa-dart"></i> <!-- Dart -->
-<i class="fab fa-docker"></i> <!-- Docker -->
-<i class="fab fa-dotnet"></i> <!-- .NET -->
-<i class="fab fa-firebase"></i> <!-- Firebase -->
-<i class="fab fa-flutter"></i> <!-- Flutter -->
-<i class="fab fa-git"></i> <!-- Git -->
-<i class="fab fa-html5"></i> <!-- HTML5 -->
-<i class="fab fa-js-square"></i> <!-- JavaScript -->
-<i class="fab fa-microsoft"></i> <!-- Microsoft SQL Server -->
-<i class="fab fa-node"></i> <!-- Node.js -->
-<i class="fab fa-postgresql"></i> <!-- PostgreSQL -->
-<i class="fab fa-postman"></i> <!-- Postman -->
-<i class="fab fa-react"></i> <!-- React -->
-<i class="fab fa-sqlite"></i> <!-- SQLite -->
-<i class="fab fa-swift"></i> <!-- Swift -->
-<i class="fab fa-xd"></i> <!-- Adobe XD -->
+![Android](https://img.shields.io/badge/Android-green?logo=android)
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-green?logo=c-sharp)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+![React](https://img.shields.io/badge/React-blue?logo=react)
+![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+![Swift](https://img.shields.io/badge/Swift-orange?logo=swift)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-blue?logo=adobe-xd)
+
 
 
 ## Contact
