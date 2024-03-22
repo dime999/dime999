@@ -35,12 +35,14 @@ I am currently working on several exciting projects:
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
+
 
 I am proud of my project eStomatolog. The project consists of three applications: desktop, mobile, and web applications. The desktop application serves as an administration panel for doctors to manage all scheduled appointments, add new patients, doctors, and clinics. The mobile application is designed for patients, allowing them to view appointments, purchase gift cards, schedule appointments with doctors, and leave feedback. The web application serves as an informational platform about the project. For the backend, .NET and microservices were utilized along with RabbitMQ for communication. The API project is well-refined.
 
 
 
-- Languages and Tools:
+## Tools and programming languages I am familiar with include
 
 ![Android](https://img.shields.io/badge/Android-green?logo=android)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
@@ -59,12 +61,11 @@ I am proud of my project eStomatolog. The project consists of three applications
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server)
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
-![Swift](https://img.shields.io/badge/Swift-orange?logo=swift)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-blue?logo=adobe-xd)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
+
 
 
 
