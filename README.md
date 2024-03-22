@@ -1,7 +1,18 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I am a passionate .NET developer with experience in building robust and scalable web applications. Currently, I am learning Vue.js and exploring Flutter for mobile app development. I also have a deep understanding of SQL Server and database management.
+I am a 24-year-old software engineer. 
+As part of my job, I perform all
+activities related to software engineering. I gained experience with .NET
+by working on independent projects a year before my first job. After
+that, I have accumulated 2 years of professional experience, totaling 3
+years in the field. 
+I got the opportunity to become a full-stack developer
+and thus gained experience in Vue.js. 
+In my free time over the years, I
+have been learning Angular and Flutter, so I am ready to start building
+projects with these technologies.
+I also have a deep understanding of SQL Server and database management.
 
 ## Skills
 - **Programming Languages:** C#, .NET, JavaScript 
