@@ -18,7 +18,30 @@ I am currently working on several exciting projects:
 
 - Languages and Tools:
 
-[android] [angular] angularjs azure bootstrap cplusplus csharp css3 dart docker dotnet firebase flutter git html5 javascript mssql nodejs postgresql postman react sqlite swift xd 
+<i class="fab fa-android"></i> <!-- Android -->
+<i class="fab fa-angular"></i> <!-- Angular -->
+<i class="fab fa-azure"></i> <!-- Azure -->
+<i class="fab fa-bootstrap"></i> <!-- Bootstrap -->
+<i class="fab fa-c-plusplus"></i> <!-- C++ -->
+<i class="fab fa-csharp"></i> <!-- C# -->
+<i class="fab fa-css3"></i> <!-- CSS3 -->
+<i class="fab fa-dart"></i> <!-- Dart -->
+<i class="fab fa-docker"></i> <!-- Docker -->
+<i class="fab fa-dotnet"></i> <!-- .NET -->
+<i class="fab fa-firebase"></i> <!-- Firebase -->
+<i class="fab fa-flutter"></i> <!-- Flutter -->
+<i class="fab fa-git"></i> <!-- Git -->
+<i class="fab fa-html5"></i> <!-- HTML5 -->
+<i class="fab fa-js-square"></i> <!-- JavaScript -->
+<i class="fab fa-microsoft"></i> <!-- Microsoft SQL Server -->
+<i class="fab fa-node"></i> <!-- Node.js -->
+<i class="fab fa-postgresql"></i> <!-- PostgreSQL -->
+<i class="fab fa-postman"></i> <!-- Postman -->
+<i class="fab fa-react"></i> <!-- React -->
+<i class="fab fa-sqlite"></i> <!-- SQLite -->
+<i class="fab fa-swift"></i> <!-- Swift -->
+<i class="fab fa-xd"></i> <!-- Adobe XD -->
+
 
 ## Contact
 Feel free to reach out to me via email adem.halilovic@edu.fit.ba if you would like to collaborate or if you have any questions.
