@@ -59,6 +59,6 @@ I am currently working on several exciting projects:
 Feel free to reach out to me via email adem.halilovic@edu.fit.ba if you would like to collaborate or if you have any questions.
 
 ## Connect with Me
-Follow me on [LinkedIn]([https://www.linkedin.com/in/your-name-lastname](https://www.linkedin.com/in/adem999/)/) for the latest updates on my projects and the technologies I'm exploring.
+Follow me on [LinkedIn](https://www.linkedin.com/in/adem999/) for the latest updates on my projects and the technologies I'm exploring.
 
 Thank you for visiting my profile! 😊
