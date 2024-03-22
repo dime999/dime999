@@ -8,7 +8,7 @@ I am a passionate .NET developer with experience in building robust and scalable
 - **Frontend:** Vue.js,Angular, HTML, CSS
 - **Mobile Development:** Flutter
 - **Databases:** SQL Server, MySQL
-- **Tools:** Visual Studio, Visual Studio Code, Git, SQL Management Studio
+- **Tools:** Visual Studio, Visual Studio Code, Git, SQL Management Studio, Docker
 
 ## Projects
 I am currently working on several exciting projects:
