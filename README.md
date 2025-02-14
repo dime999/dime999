@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-I am a 24-year-old software engineer. 
+I am a 25-year-old software engineer. 
 As part of my job, I perform all
 activities related to software engineering. I gained experience with .NET
 by working on independent projects a year before my first job. After
-that, I have accumulated 2 years of professional experience, totaling 3
+that, I have accumulated 3 years of professional experience, totaling 3
 years in the field. 
 I got the opportunity to become a full-stack developer
 and thus gained experience in Vue.js. 
