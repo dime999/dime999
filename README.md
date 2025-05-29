@@ -28,17 +28,18 @@ I'm actively working on several exciting projects:
 
 🛠️ SQL performance optimization through query tuning and indexing
 
-I am a proud engineer who created eStomatolog
+## I am a proud engineer who created eStomatolog
+![Android](https://img.shields.io/badge/Android-green?logo=android)
+![C#](https://img.shields.io/badge/C%23-green?logo=c-sharp)
+![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
+![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server)
+![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
 
-I'm especially proud of eStomatolog, a comprehensive dental clinic management system consisting of:
 
-Desktop application (for doctors and clinic administration — scheduling, patient management, clinic setup)
-
-Mobile application (for patients — appointment booking, feedback, gift cards, history tracking)
-
-Web application (informational platform)
-
-The backend was built using .NET microservices, with RabbitMQ for inter-service communication. The API architecture is clean and scalable.
+The project consists of three applications: desktop, mobile, and web applications. The desktop application serves as an administration panel for doctors to manage all scheduled appointments, add new patients, doctors, and clinics. The mobile application is designed for patients, allowing them to view appointments, purchase gift cards, schedule appointments with doctors, and leave feedback. The web application serves as an informational platform about the project. For the backend, .NET and microservices were utilized along with RabbitMQ for communication. The API project is well-refined.
 
 Tools & Technologies I Work With
 
