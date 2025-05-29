@@ -1,33 +1,26 @@
-#Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 👋
 
-##About Me
-👋 Hi! I’m Adem, a 26-year-old software engineer from Zenica, Bosnia and Herzegovina. I hold a degree in Information Technologies and began my professional journey in early 2022 as a .NET developer.
+## About Me
+👋 Hi there! I’m Adem, a 26-year-old software engineer from Zenica, Bosnia and Herzegovina. I graduated with a degree in Information Technologies and started my professional journey in early 2022 as a .NET developer.
 
-🚀 Over time, I expanded my skills into Vue.js and transitioned into a full-stack developer role. I’ve also been involved in planning, estimations, and later on, mentoring junior colleagues. Currently, I work at comparis.ch as a full-stack developer, focusing on .NET and Next.js (React).
+🚀 Over time, I transitioned into a full-stack developer role by expanding my skills into Vue.js. I’ve been involved not only in development but also in planning, task estimation, and mentoring junior colleagues. Today, I’m working at comparis.ch as a full-stack developer, primarily using .NET and Next.js (React).
 
-☁️ I have solid experience with Azure Cloud infrastructure and GitHub Actions. Lately, I've been exploring Azure in depth — with a special focus on Azure Functions and Event Grid. In my free time, I’m also learning more about Kubernetes and Docker to enhance my DevOps skillset.
+☁️ I have a strong grasp of Azure Cloud infrastructure and GitHub Actions, and I’m currently diving deeper into the Azure ecosystem — especially Azure Functions and Event Grid. In my free time, I’m also exploring Kubernetes and Dockerization to broaden my DevOps and cloud-native knowledge.
 
-📱 During my university years, I developed my first major project using Flutter — eStomatolog, a dental clinic management app. You can read more about it below.
+📱 During my studies, I worked with Flutter and developed my first serious project, eStomatolog, a dental clinic management app. You can read more about it in the dedicated section: “I am a proud engineer who created eStomatolog.”
 
-Skills
-Languages: C#, .NET, JavaScript
+## Skills
+- **Programming Languages:** C#, .NET, JavaScript 
+- **Frontend:** Vue.js,Angular, Next.js, React, HTML, CSS
+- **Mobile Development:** Flutter
+- **Databases:** SQL Server, MySQL
+- **Tools:** Visual Studio, Visual Studio Code, Git, SQL Management Studio, Docker
 
-Frontend: Vue.js, Angular, Next.js, React, HTML, CSS
-
-Mobile Development: Flutter
-
-Databases: SQL Server, MySQL
-
-Tools: Visual Studio, VS Code, Git, SSMS, Docker
-
-Projects
-I'm actively working on several exciting projects:
-
-🚀 Scalable web application built with .NET Core and Vue.js
-
-📱 Mobile task management app developed in Flutter
-
-🛠️ SQL performance optimization through query tuning and indexing
+## Projects
+I am currently working on several exciting projects:
+- 🚀 Developing a scalable web application using .NET Core and Vue.js
+- 📱 Building a mobile app with Flutter for task management
+- 🛠️ Optimizing SQL queries to enhance application performance
 
 ## I am a proud engineer who created eStomatolog
 ![Android](https://img.shields.io/badge/Android-green?logo=android)
@@ -40,10 +33,11 @@ I'm actively working on several exciting projects:
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
 
 
-The project consists of three applications: desktop, mobile, and web applications. The desktop application serves as an administration panel for doctors to manage all scheduled appointments, add new patients, doctors, and clinics. The mobile application is designed for patients, allowing them to view appointments, purchase gift cards, schedule appointments with doctors, and leave feedback. The web application serves as an informational platform about the project. For the backend, .NET and microservices were utilized along with RabbitMQ for communication. The API project is well-refined.
+I am proud of my project eStomatolog. The project consists of three applications: desktop, mobile, and web applications. The desktop application serves as an administration panel for doctors to manage all scheduled appointments, add new patients, doctors, and clinics. The mobile application is designed for patients, allowing them to view appointments, purchase gift cards, schedule appointments with doctors, and leave feedback. The web application serves as an informational platform about the project. For the backend, .NET and microservices were utilized along with RabbitMQ for communication. The API project is well-refined.
 
-Tools & Technologies I Work With
 
+
+## Tools and programming languages I am familiar with include
 
 ![Android](https://img.shields.io/badge/Android-green?logo=android)
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
@@ -68,8 +62,12 @@ Tools & Technologies I Work With
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)
 
 
-📬 Contact
-📧 Email: adem.halilovic@edu.fit.ba
-💼 LinkedIn: linkedin.com/in/adem999
 
-Thanks for stopping by! Feel free to reach out if you're interested in collaboration. 😊
+
+## Contact
+Feel free to reach out to me via email adem.halilovic@edu.fit.ba if you would like to collaborate or if you have any questions.
+
+## Connect with Me
+Follow me on [LinkedIn](https://www.linkedin.com/in/adem999/) for the latest updates on my projects and the technologies I'm exploring.
+
+Thank you for visiting my profile! 😊
