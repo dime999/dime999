@@ -3,7 +3,7 @@
 ## About Me
 👋 Hi! I’m **Adem**, a 26-year-old software engineer from **Zenica, Bosnia and Herzegovina**. I have a degree in Information Technologies and began my professional journey in early 2022 as a **.NET developer**.
 
-🚀 Over time, I expanded my skills into **Vue.js** and transitioned into a **full-stack developer** role. I’ve also been involved in **planning**, **estimations**, and later on, **mentoring junior colleagues**. Currently, I work at **comparis.ch** as a full-stack developer, focusing on **.NET** and **Next.js (React)**.
+🚀 Over time, I expanded my skills into **Vue.js && Angular** and transitioned into a **full-stack developer** role. I’ve also been involved in **planning**, **estimations**, and later on, **mentoring junior colleagues**. Currently, I work at **comparis.ch** as a full-stack developer, focusing on **.NET** and **Next.js (React)**.
 
 ☁️ I have solid experience with **Azure Cloud infrastructure** and **GitHub Actions**. Lately, I've been exploring Azure in depth — with a special focus on **Azure Functions** and **Event Grid**. In my free time, I’m also learning more about **Kubernetes** and **Docker** to enhance my DevOps skillset.
 
